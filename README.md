@@ -49,4 +49,9 @@ Crea componentes encapsulados que manejen su propio estado, y conviértelos en i
 
 ---
 
+## Images
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
